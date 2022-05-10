@@ -13,7 +13,7 @@ System.out.println("本日の天気予報♪");
  }else if(weather >10){
       System.out.println("大気が大変不安定です、外出は控えましょう");
  }else{
-	  System.out.println("");
+	  System.out.println("エラー");
     } 
   }
 }
