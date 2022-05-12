@@ -7,7 +7,6 @@ public class Study {
 		System.out.println("赤塚です");
 		int a += 20;
 		String　name1 = "赤塚"
-		
 	}
 
 }
